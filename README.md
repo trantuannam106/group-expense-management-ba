@@ -1,1 +1,58 @@
-# group-expense-management-ba
+# 📊 Group Expense Management System (BA Project)
+
+## 📌 Overview | Tổng quan
+This project focuses on analyzing and designing a system to manage group expenses, split bills, and track debts efficiently.  
+Dự án tập trung vào việc phân tích và thiết kế hệ thống quản lý chi tiêu nhóm, chia hóa đơn và theo dõi công nợ.
+
+---
+
+## 🎯 Objectives | Mục tiêu
+- Automate expense tracking and bill splitting  
+- Improve transparency in group financial activities  
+- Reduce manual calculation errors  
+
+- Tự động hóa việc theo dõi chi tiêu và chia hóa đơn  
+- Tăng tính minh bạch trong các khoản chi nhóm  
+- Giảm sai sót khi tính toán thủ công  
+
+---
+
+## 👨‍💼 My Role | Vai trò
+**Business Analyst**
+
+---
+
+## 📋 Responsibilities | Công việc thực hiện
+- Gathered and analyzed business requirements  
+- Created UML diagrams (Use Case, Activity, Sequence)  
+- Wrote user stories and functional specifications  
+- Proposed solutions for expense tracking and debt management  
+
+- Thu thập và phân tích yêu cầu nghiệp vụ  
+- Xây dựng sơ đồ UML (Use Case, Activity, Sequence)  
+- Viết User Story và tài liệu đặc tả chức năng  
+- Đề xuất giải pháp cải thiện quản lý chi tiêu và công nợ  
+
+---
+
+## 🧩 System Features | Chức năng hệ thống
+- Create and manage groups  
+- Add and split expenses (equal, percentage, custom)  
+- Track debts (who owes whom)  
+- Confirm payments between users  
+
+- Tạo và quản lý nhóm  
+- Thêm và chia chi tiêu (chia đều, %, tùy chỉnh)  
+- Theo dõi công nợ  
+- Xác nhận thanh toán giữa các thành viên  
+
+---
+
+## 🛠️ Artifacts | Tài liệu BA
+- 📄 Business Requirements Document (BRD)  
+- 📊 UML Diagrams  
+- 📝 User Stories  
+
+---
+
+## 📁 Project Structure | Cấu trúc thư mục
