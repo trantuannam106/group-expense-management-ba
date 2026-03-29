@@ -80,7 +80,7 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 ---
 
 ## 🔗 Related Resources | Liên kết
-- 📄 BRD: (dán link hoặc file trong repo)
+- 📄 BRD: [View BRD](./BRD.pdf)
 - 💻 Source Code FE: (dán link repo code của bạn)
 - 💻 Source Code BE: (dán link repo code của bạn)
 ---
