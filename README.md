@@ -52,7 +52,18 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 - 📄 Business Requirements Document (BRD)  
 - 📊 UML Diagrams  
 - 📝 User Stories  
+---
 
+## 📊 UML Diagrams
+
+### Use Case Diagram
+![UseCase](./UML/UseCase.png)
+
+### Activity Diagram
+![Activity](./UML/Activity.png)
+
+### Sequence Diagram
+![Sequence](./UML/Sequence.png)
 ---
 
 ## 📁 Project Structure | Cấu trúc thư mục
