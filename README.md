@@ -56,3 +56,33 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 ---
 
 ## 📁 Project Structure | Cấu trúc thư mục
+📁 group-expense-management-ba
+┣ 📄 README.md
+┣ 📄 BRD.pdf
+┣ 📁 UML
+┃ ┣ UseCase.png
+┃ ┣ Activity.png
+┃ ┗ Sequence.png
+┣ 📁 UserStories
+┃ ┗ user-stories.md
+---
+
+## 🔗 Related Resources | Liên kết
+- 📄 BRD: (dán link hoặc file trong repo)
+- 💻 Source Code (FE + BE): (dán link repo code của bạn)
+
+---
+
+## 🚀 Future Improvements | Hướng phát triển
+- Add mobile application  
+- Integrate online payment (MoMo, banking)  
+- Advanced financial reports  
+
+- Phát triển ứng dụng mobile  
+- Tích hợp thanh toán online  
+- Báo cáo tài chính nâng cao  
+
+---
+
+## 📬 Contact
+- Email: tuannam106@gmail.com
