@@ -64,6 +64,7 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 
 ### Sequence Diagram
 ![Sequence](./UML/Sequence.png)
+
 ---
 
 ## 📁 Project Structure | Cấu trúc thư mục
@@ -80,8 +81,8 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 
 ## 🔗 Related Resources | Liên kết
 - 📄 BRD: (dán link hoặc file trong repo)
-- 💻 Source Code (FE + BE): (dán link repo code của bạn)
-
+- 💻 Source Code FE: (dán link repo code của bạn)
+- 💻 Source Code BE: (dán link repo code của bạn)
 ---
 
 ## 🚀 Future Improvements | Hướng phát triển
