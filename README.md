@@ -89,7 +89,7 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 
 ## 🔗 Related Resources | Liên kết
 - 📄 BRD: [View BRD](./BRD.pdf)
-- 💻 Source Code FE: (dán link repo code của bạn)
+- 💻 Source Code FE: https://github.com/trantuannam106/group-expense-management-FE
 - 💻 Source Code BE: (dán link repo code của bạn)
 ---
 
