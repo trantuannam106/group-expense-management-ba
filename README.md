@@ -97,4 +97,5 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 ---
 
 ## 📬 Contact
+- Video demo app lần 1:https://www.youtube.com/watch?v=XpGboMFir1A
 - Email: tuannam106@gmail.com
