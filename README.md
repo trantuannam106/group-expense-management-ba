@@ -69,13 +69,21 @@ Dự án tập trung vào việc phân tích và thiết kế hệ thống quả
 
 ## 📁 Project Structure | Cấu trúc thư mục
 📁 group-expense-management-ba
+
 ┣ 📄 README.md
+
 ┣ 📄 BRD.pdf
+
 ┣ 📁 UML
+
 ┃ ┣ UseCase.png
+
 ┃ ┣ Activity.png
+
 ┃ ┗ Sequence.png
+
 ┣ 📁 UserStories
+
 ┃ ┗ user-stories.md
 ---
 
